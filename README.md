@@ -4,7 +4,13 @@ Contributed by Yantong Lai
 
 I've been reading these papers about **attribute inference attack** recently and collected them as a paper list. The repository keeps on maintenance. 
 
-**Welcome to contribute this paper list about Attribute Inference Attack / Defense methods** !
+**Welcome to your contribution:**
+- Paper about **Attribute Inference Attack / Defense** methods;
+- Experiments code in those paper;
+- Paper reading notes with those paper
+
+**Thanks in advance!**
+
 
 
 
