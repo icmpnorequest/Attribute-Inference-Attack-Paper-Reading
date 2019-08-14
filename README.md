@@ -20,10 +20,9 @@ Please Notice: **Paper listed below is in Paper/Attack directory.**
 
 1. [16 USENIX] Gong, Neil Zhenqiang, and Bin Liu. "You are who you know and how you behave: Attribute inference attacks via users' social friends and behaviors." *25th {USENIX} Security Symposium ({USENIX} Security 16)*. 2016.
 2. [17 WWW] Jia, Jinyuan, et al. "AttriInfer: Inferring user attributes in online social networks using markov random fields." *Proceedings of the 26th International Conference on World Wide Web*. International World Wide Web Conferences Steering Committee, 2017.
-
 3. [18 ACM TOPS] Gong, Neil Zhenqiang, and Bin Liu. "Attribute inference attacks in online social networks." *ACM Transactions on Privacy and Security (TOPS)* 21.1 (2018): 3.
-
 4. [18 CCS] Ganju, Karan, et al. "Property inference attacks on fully connected neural networks using permutation invariant representations." *Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security*. ACM, 2018.
+5. [15 IJSN Attribute Infenrence Attack] Hacking Smart Machines with Smarter Ones How to Extract Meaningful Data from Machine Learning Classifiers
 
 
 
