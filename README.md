@@ -44,6 +44,14 @@ Please Notice: **Paper listed below is in Paper/Data Utility directory.**
 
 
 
+## Application
+
+Please Notice: **Paper listed below is in Paper/Application directory.**
+
+1. [19 WWW Attribute Inference] Demographic Inference and Representative Population Estimates from Multilingual Social Media Data.pdf
+
+
+
 ## License
 MIT License
 
