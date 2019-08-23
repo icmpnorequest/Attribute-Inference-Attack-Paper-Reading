@@ -24,6 +24,8 @@ Please Notice: **Paper listed below is in Paper/Attack directory.**
 4. [18 CCS] Ganju, Karan, et al. "Property inference attacks on fully connected neural networks using permutation invariant representations." *Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security*. ACM, 2018.
 5. [15 IJSN Attribute Infenrence Attack] Hacking Smart Machines with Smarter Ones How to Extract Meaningful Data from Machine Learning Classifiers
 
+6. [19 S&P DL Privacy] Comprehensive Privacy Analysis of Deep Learning
+
 
 
 ## Defense against Attribute Inference Attack
