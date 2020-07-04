@@ -11,6 +11,25 @@ I've been reading these papers about **attribute inference attack** recently and
 
 **Thanks in advance!**
 
+<br></br>
+
+## Contents 
+
+[1. Attribute Inference Attack](#1. Attribute Inference Attack)
+
+​        [1.1 User Attribute Inference Based on Text](#1.1 User Attribute Inference Based on Text)
+
+​        [1.2 User Attribute Inference Based on Behavior](#1.2 User Attribute Inference Based on Behavior)
+
+​        [1.3 User Attribute Inference Based on Social Network](#1.3 User Attribute Inference Based on Social Network)
+
+[2. Defense against Attribute Inference Attack](#2. Defense against Attribute Inference Attack)
+
+[3. Data Utility](#3. Data Utility)
+
+[4. Security and Privacy of Models in Machine Learning](#4. Security and Privacy of Models in Machine Learning)
+
+<br></br>
 
 ## 1. Attribute Inference Attack
 
@@ -31,6 +50,8 @@ TODO
 2. [17 WWW] Jia, Jinyuan, et al. "AttriInfer: Inferring user attributes in online social networks using markov random fields." *Proceedings of the 26th International Conference on World Wide Web*. International World Wide Web Conferences Steering Committee, 2017.
 3. [18 ACM TOPS] Gong, Neil Zhenqiang, and Bin Liu. "Attribute inference attacks in online social networks." *ACM Transactions on Privacy and Security (TOPS)* 21.1 (2018): 3.
 
+<br></br>
+
 
 ## 2. Defense against Attribute Inference Attack
 
@@ -38,6 +59,8 @@ Please Notice: **Paper listed below is in Paper/Defense directory.**
 
 1. [18 USENIX] Jia, Jinyuan, and Neil Zhenqiang Gong. "Attriguard: A practical defense against attribute inference attacks via adversarial machine learning." *27th {USENIX} Security Symposium ({USENIX} Security 18)*. 2018.
 2. [18 TDSC] Cai, Zhipeng, et al. "Collective data-sanitization for preventing sensitive information inference attacks in social networks." *IEEE Transactions on Dependable and Secure Computing*15.4 (2016): 577-590.
+
+<br></br>
 
 
 ## 3. Data Utility
@@ -47,6 +70,8 @@ Please Notice: **Paper listed below is in Paper/Data Utility directory.**
 1. [09 KDD] Li, Tiancheng, and Ninghui Li. "On the tradeoff between privacy and utility in data publishing." *Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining*. ACM, 2009.
 2. [Public Data Utility] Rajeshwari, N. O., and C. N. Sowmyarani. "Data utility measures-a survey." *2016 2nd International Conference on Applied and Theoretical Computing and Communication Technology (iCATccT)*. IEEE, 2016.
 
+<br></br>
+
 
 ## 4. Security and Privacy of Models in Machine Learning
 
@@ -54,6 +79,8 @@ Please Notice: **Paper listed below is in Paper/Application directory.**
 1. [18 CCS] Ganju, Karan, et al. "Property inference attacks on fully connected neural networks using permutation invariant representations." *Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security*. ACM, 2018.
 2. [15 IJSN Attribute Infenrence Attack] Hacking Smart Machines with Smarter Ones How to Extract Meaningful Data from Machine Learning Classifiers
 3. [19 S&P DL Privacy] Comprehensive Privacy Analysis of Deep Learning
+
+<br></br>
 
 
 ## License
