@@ -1,8 +1,8 @@
 # Table of Contents
 
-* 1 [markdown-toc](#markdown-toc)
-  * 1.1 [变更日志](#变更日志)
-  * 1.2 [Features](#features)
+* 1 [1. markdown-toc](#1. markdown-toc)
+  * 1.1 [1.1 变更日志](#1.1 变更日志)
+  * 1.2 [1.2 Features](#1.2 Features)
 * 2 [环境依赖](#环境依赖)
   * 2.1 [JDK](#jdk)
   * 2.2 [Maven](#maven)
@@ -16,7 +16,7 @@
 * 5 [测试案例](#测试案例)
 * 6 [其他](#其他)
 
-# markdown-toc
+# 1. markdown-toc
 
 
 ```
@@ -28,3 +28,11 @@
 ```
 
 This is a content test
+
+## 1.1 变更日志
+
+变更日志
+
+## 1.2 Features
+
+Features
