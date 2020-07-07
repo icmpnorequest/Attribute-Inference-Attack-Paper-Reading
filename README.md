@@ -48,6 +48,7 @@ In the following fields:
 - stance detection
 - opinion change prediction
 - life satisfaction or mortality rate
+- detection/identification of linguistic features of specific group
 <br></br>
 
 ## 3. Defense against User Attributes Inference
