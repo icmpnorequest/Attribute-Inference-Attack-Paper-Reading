@@ -43,7 +43,7 @@ In the following fields:
 - topic detection
 - sarcasm detection
 - fake news detection
-- hate speech detection
+- hate speech detection/toxic comment detection
 - mental health detection
 - stance detection
 - opinion change prediction
