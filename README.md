@@ -79,6 +79,7 @@ Please Notice: **Paper listed below is in Paper/Application directory.**
 
 1. [18 Survey] Pan S, Ding T. Automatically Infer Human Traits and Behavior from Social Media Data[J]. arXiv preprint arXiv:1804.04191, 2018.
 2. [20 ACL Survey & Discussion] Flek L. Returning the N to NLP: Towards Contextually Personalized Classification Models[C]//Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020: 7828-7838.
+3. [19 IJCAI] Pan S, Ding T. Social Media-based User Embedding: A Literature Review
 <br></br>
 
 ## License
